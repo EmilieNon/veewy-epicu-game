@@ -568,6 +568,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2077019316, guid: f4c732bd4293fab4d89003473b820390, type: 3}
+      propertyPath: m_DefaultControlScheme
+      value: Keyboard&Mouse
+      objectReference: {fileID: 0}
     - target: {fileID: 858421624138666791, guid: f4c732bd4293fab4d89003473b820390, type: 3}
       propertyPath: m_Name
       value: Rupert
